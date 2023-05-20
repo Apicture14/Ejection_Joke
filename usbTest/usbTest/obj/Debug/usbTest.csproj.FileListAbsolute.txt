@@ -9,3 +9,14 @@ C:\Users\_YBY\RiderProjects\usbTest\usbTest\obj\Debug\usbTest.csproj.CoreCompile
 C:\Users\_YBY\RiderProjects\usbTest\usbTest\obj\Debug\usbTest.exe
 C:\Users\_YBY\RiderProjects\usbTest\usbTest\obj\Debug\usbTest.pdb
 C:\Users\_YBY\RiderProjects\usbTest\usbTest\obj\Debug\usbTest.Form1.resources
+E:\css\usbTest\usbTest\bin\Debug\usbTest.exe.config
+E:\css\usbTest\usbTest\bin\Debug\usbTest.exe
+E:\css\usbTest\usbTest\bin\Debug\usbTest.pdb
+E:\css\usbTest\usbTest\obj\Debug\usbTest.csproj.AssemblyReference.cache
+E:\css\usbTest\usbTest\obj\Debug\usbTest.csproj.SuggestedBindingRedirects.cache
+E:\css\usbTest\usbTest\obj\Debug\usbTest.Form1.resources
+E:\css\usbTest\usbTest\obj\Debug\usbTest.Properties.Resources.resources
+E:\css\usbTest\usbTest\obj\Debug\usbTest.csproj.GenerateResource.cache
+E:\css\usbTest\usbTest\obj\Debug\usbTest.csproj.CoreCompileInputs.cache
+E:\css\usbTest\usbTest\obj\Debug\usbTest.exe
+E:\css\usbTest\usbTest\obj\Debug\usbTest.pdb
