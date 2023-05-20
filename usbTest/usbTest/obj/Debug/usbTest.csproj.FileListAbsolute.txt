@@ -1,0 +1,11 @@
+C:\Users\_YBY\RiderProjects\usbTest\usbTest\bin\Debug\usbTest.exe.config
+C:\Users\_YBY\RiderProjects\usbTest\usbTest\bin\Debug\usbTest.exe
+C:\Users\_YBY\RiderProjects\usbTest\usbTest\bin\Debug\usbTest.pdb
+C:\Users\_YBY\RiderProjects\usbTest\usbTest\obj\Debug\usbTest.csproj.AssemblyReference.cache
+C:\Users\_YBY\RiderProjects\usbTest\usbTest\obj\Debug\usbTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\_YBY\RiderProjects\usbTest\usbTest\obj\Debug\usbTest.Properties.Resources.resources
+C:\Users\_YBY\RiderProjects\usbTest\usbTest\obj\Debug\usbTest.csproj.GenerateResource.cache
+C:\Users\_YBY\RiderProjects\usbTest\usbTest\obj\Debug\usbTest.csproj.CoreCompileInputs.cache
+C:\Users\_YBY\RiderProjects\usbTest\usbTest\obj\Debug\usbTest.exe
+C:\Users\_YBY\RiderProjects\usbTest\usbTest\obj\Debug\usbTest.pdb
+C:\Users\_YBY\RiderProjects\usbTest\usbTest\obj\Debug\usbTest.Form1.resources
